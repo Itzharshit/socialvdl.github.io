@@ -112,7 +112,7 @@ echo $ddata;
 <div class="footer">
   <p>
 <div style="position: fixed;bottom: 0;width: 100%;background-color: black;color: white;text-align: center;z-index: 99999999999999999;">
-  <p> &copy; All right Reserved <?php echo date("Y"); ?> . Powered By <a href="https://tinyurl.com/buydlapitube"><b> Vijay Kumar </b> </a></p>
+  <p> &copy; All right Reserved <?php echo date("Y"); ?> . Powered By <a href="https://harshitshrivastav.me"><b> Harshit Shrivastav </b> </a></p>
 </div>
   </p>
 </div>
