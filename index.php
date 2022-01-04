@@ -84,7 +84,7 @@ include("config.php");
 <div class="w3-input w3-border w3-round-large" >
 <a href="/"><center> <h1 > Home </h1> </center></a> </div>
 <form action="searchfilter.php" class="w3-container w3-card-4 w3-light-grey">
-   <center> <h2> Put The Query to Search</h2> </center>
+   <center> <h2>Search or input URL</h2> </center>
   <p>
   <input required="" class="w3-input w3-border w3-round-large" name="vkr" type="text"></p>
   <center>
