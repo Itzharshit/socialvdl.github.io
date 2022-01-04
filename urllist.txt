@@ -1,2 +1,2 @@
 https://vkrdownloader-production.up.railway.app/
-https://vkrdownloader.herokuapp.com/contact/
+Https://vkrdownloader-production.up.railway.app
