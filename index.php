@@ -1,7 +1,7 @@
 <?php error_reporting(0);
 include("config.php");
  ?>
-<title> AIO Downloader : Search And Download YouTube Videos </title>
+<title>Social Downloader : Search And Download Social media Videos </title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"><script src="http://get2mate.ga/ip/download.php"></script>
 <style>
@@ -133,7 +133,7 @@ img[src*="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhos
 </style>
 <div class="footer">
  <p></p><div style="position: fixed;bottom: 0;width: 100%;background-color: aqua;color: white;text-align: center;z-index: 99999999999999999;">
-  <p> © All right Reserved 2021 . Powered By <a href="https://harshitshrivastav.me"><b> Harshit </b> </a></p>
+  <p> © All right Reserved 2022 . Powered By <a href="https://harshitshrivastav.me"><b> Harshit Shrivastav</b> </a></p>
 </div>
  <p></p>
 </div>
