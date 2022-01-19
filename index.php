@@ -91,6 +91,16 @@ include("config.php");
    <button type="submit" class="w3-bar-item w3-button w3-red" > Search! </button></center>
    <br><br>
 </form>
+<script type="text/javascript">
+	atOptions = {
+		'key' : '49fc4a3355870961f8b58dd63bf99583',
+		'format' : 'iframe',
+		'height' : 50,
+		'width' : 320,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectivedisplaycontent.com/49fc4a3355870961f8b58dd63bf99583/invoke.js"></scr' + 'ipt>');
+</script>
 <style>
  /*!
  * Bootstrap v4.0.0-alpha.5 (https://getbootstrap.com)
