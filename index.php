@@ -107,6 +107,16 @@ include("config.php");
 <center> And more than 1 million websites </center><br><br>
 </div></div></div></div>
 </div>
+<script type="text/javascript">
+	atOptions = {
+		'key' : '49fc4a3355870961f8b58dd63bf99583',
+		'format' : 'iframe',
+		'height' : 50,
+		'width' : 320,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectivedisplaycontent.com/49fc4a3355870961f8b58dd63bf99583/invoke.js"></scr' + 'ipt>');
+</script>
 <style type="text/css">
 img[src*="000webhost"][style],
 body > div:nth-last-of-type(1)[style]{
