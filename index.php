@@ -82,7 +82,7 @@ include("config.php");
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <body>
 <div class="w3-input w3-border w3-round-large" >
-<a href="/"><center> <h1 > Home </h1> </center></a> </div>
+<a href="/"><center> <h1 > Socal DL </h1> </center></a> </div>
 <form action="searchfilter.php" class="w3-container w3-card-4 w3-light-grey">
    <center> <h2>Enter video Link or search YouTube</h2> </center>
   <p>
