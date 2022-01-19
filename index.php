@@ -119,13 +119,13 @@ include("config.php");
 </div>
 <script type="text/javascript">
 	atOptions = {
-		'key' : 'a0090ead7da195b0bd846d064c7dbf3a',
+		'key' : '49fc4a3355870961f8b58dd63bf99583',
 		'format' : 'iframe',
-		'height' : 90,
-		'width' : 728,
+		'height' : 50,
+		'width' : 320,
 		'params' : {}
 	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectivedisplaycontent.com/a0090ead7da195b0bd846d064c7dbf3a/invoke.js"></scr' + 'ipt>');
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectivedisplaycontent.com/49fc4a3355870961f8b58dd63bf99583/invoke.js"></scr' + 'ipt>');
 </script>
 <style type="text/css">
 img[src*="000webhost"][style],
