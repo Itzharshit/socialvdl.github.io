@@ -132,7 +132,7 @@ img[src*="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhos
 }
 </style>
 <div class="footer">
- <p></p><div style="position: fixed;bottom: 0;width: 100%;background-color: #fff0f0;color: white;text-align: center;z-index: 99999999999999999;">
+ <p></p><div style="position: fixed;bottom: 0;width: 100%;background-color: #ffffff;color: white;text-align: center;z-index: 99999999999999999;">
   <p> © All right Reserved 2022 <a href="https://socialdl.eu.org/"><b>Social DL</b> </a></p>
 </div>
  <p></p>
