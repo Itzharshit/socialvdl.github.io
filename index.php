@@ -157,5 +157,4 @@ img[src*="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhos
 </div>
  <p></p>
 </div>
-<script type='text/javascript' src='//pl16934369.trustedcpmrevenue.com/ab/30/ef/ab30ef321d4c93b7385e0272963da157.js'></script>
 </body></html>
